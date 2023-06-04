@@ -3,8 +3,8 @@
 using namespace std ;
 int main ()
 {
- float a;
-cin>>a;
-cout<<fixed<<setprecision(2)<<a;
+ float x;
+cin>>x;
+cout<<fixed<<setprecision(2)<<x;
     return 0;
 }
